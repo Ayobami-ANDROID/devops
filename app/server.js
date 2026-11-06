@@ -16,7 +16,6 @@ logger.info('This never stops');
 logger.info('Logging logging all the way');
 logger.info('Something');
 logger.info('log entry for testing local');
-logger.info('logging for the sake of logging');
 
 app.listen(3000, function () {
     logger.info("app listening on port 3000!");
